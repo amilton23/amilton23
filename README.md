@@ -3,7 +3,7 @@
 <h1 align="center"> 👋 Hey! I'm Amilton Cardoso</h1>
 
 🎯 I'm a Data Scientist passionate about NLP, LLMs and building impactful ML solutions.  
-💡 Currently exploring advanced topics like Transformers, generative AI and time series modeling. 
+💡 Currently exploring advanced topics like Transformers, generative AI and Deep Learning applied to time series modeling. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

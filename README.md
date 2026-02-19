@@ -60,13 +60,3 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="margin: 10px;"/>
   </a>
 </p>
-
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amilton23&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amilton23&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>

@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Currently exploring MCP, multi-agentic workflows and Kubernetes
+  Currently exploring MCP, multi-agentic workflows, Kubernetes and CI/CD implementations.
 </p>
 
 <p align="center">

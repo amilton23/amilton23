@@ -2,7 +2,7 @@
 
 <h1 align="center">Amilton Cardoso</h1>
 <p align="center">
-  Data Scientist focused on NLP, LLMs, and machine learning solutions that create real impact.
+  Data Scientist and ML Engineer focused on NLP, LLMs, and machine learning solutions that create real impact.
 </p>
 
 <p align="center">

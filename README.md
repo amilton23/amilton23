@@ -26,7 +26,7 @@
 
 ## About me
 
-- Data Scientist with a strong interest in natural language processing and large language models
+- Data Scientist and ML Engineer with a strong interest in natural language processing and large language models
 - Motivated by building practical ML systems that solve business and product problems
 - Always learning through experimentation, research, and hands-on projects
 
@@ -35,6 +35,7 @@
 - NLP and LLM applications
 - Generative AI workflows
 - Applied machine learning and model optimization
+- Continuous Model Orchestration and Monitoring
 
 ## Tech stack
 
